@@ -1,0 +1,5 @@
+*.gma
+Thumbs.db
+*.DS_Store
+gmod.sublime-project
+gmod.sublime-workspace
